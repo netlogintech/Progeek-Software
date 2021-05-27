@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Progeek Software | User Type</title>
+    {% for i in head%}
+      <!-- Favicons -->
+      <link href="{{i.title_icon.url}}" rel="icon">
+      {% endfor %}
+    <style >
+      .User{color:black;
+      font-size:40px;
+    margin-top:10%;
+  margin-left:20%;}
+  .sec{
+    float:left;
+    text-align:center;
+    margin-left:10%;
+    margin-right:10%;
+  }
+  .sec1{
+    float:left;
+    text-align:center;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:-2%;
+  }
+  @media screen and (max-width: 800px) {
+  .sec{
+  width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .User{
+  margin-top: 20%!important;
+  }
+  }
+  @media screen and (max-width: 600px) {
+  .sec{
+  width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  .User{
+  margin-top: 20%!important;
+  }
+  }
+
+    </style>
+  </head>
+  <body>
+    {%include "app/navbar.html"%}
+    <div class="User">
+      <div class="sec">
+            <a href="/live">  <img src="{%static "images/student.jpeg"%}" alt=""><br><p><strong>Student</strong></p></a>
+      </div>
+      <div class="sec1">
+          <a href="/login"><img src="{%static "images/trainer.jpeg"%}" alt=""><br><p><strong>Trainer</strong></p></a>
+      </div>
+
+
+
+    </div>
+
+
+  </body>
+</html>

@@ -1,0 +1,905 @@
+<html lang="en" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
+    <!-- xxx Basics xxx -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- xxx Change With Your Information xxx -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
+    <title>ProGeek</title>
+    <meta name="" content="">
+    <meta name="description" content="ProGeek">
+    <meta name="keywords" content="ProGeek">
+
+    <!-- xxx Favicon xxx -->
+    <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1em}.svg-inline--fa.fa-stack-2x{height:2em;width:2em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+
+    <!-- Core Css Stylesheets -->
+    <link href="css/base.css" rel="stylesheet">
+
+    <!-- REVOLUTION STYLE SHEETS -->
+    <link rel="stylesheet" type="text/css" href="rev-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    <link rel="stylesheet" type="text/css" href="rev-slider/revolution/fonts/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="rev-slider/revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="rev-slider/revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="rev-slider/revolution/css/navigation.css">
+
+  <script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/44/2/common.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/44/2/util.js"></script></head>
+<body>
+
+
+
+  <header class="fixed-top header-fullpage top-border top-transparent wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+    <div class="top-bar-right d-flex align-items-center text-md-left">
+      <div class="container">
+        <div class="row align-items-center" style="color: #fff; line-height: 2.8;">
+          <div class="col-md-auto">
+            <span class="mr-3"><svg class="svg-inline--fa fa-mobile fa-w-10" aria-hidden="true" data-prefix="fa" data-icon="mobile" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"></path></svg><!-- <i class="fa fa-mobile"></i> --> <a href="tel:0000000000" style="color: #fff;">+91-0000000000</a></span><a href="tel:0000000000" style="color: #fff;">
+            <span><svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg><!-- <i class="fa fa-envelope"></i> --> </span></a><a href="mailto:info@progeeksoftware.com" style="color: #fff;">info@progeeksoftware.com
+          </a></div><a href="mailto:info@progeeksoftware.com" style="color: #fff;">
+          <!-- <div class="col-md-auto">
+            <span class="mr-3"><a href="#" style="color: #fff;"><span style=" background: lightslategrey; padding: 4px 20px 4px 20px; border-radius: 4px; border: 1px solid #919ca7; "> IT Consulting</span> </span>
+            <span class="mr-3"> <a href="#" style="color: #fff;"><span style=" background: lightslategrey; padding: 4px 20px 4px 20px; border-radius: 4px; border: 1px solid #919ca7;"> Our Strength</span></span>
+          </div> -->
+          </a><div class="col-md-auto"><a href="mailto:info@progeeksoftware.com" style="color: #fff;">
+            </a><div class="dropdown"><a href="mailto:info@progeeksoftware.com" style="color: #fff;">
+                </a><a href="it_consulting.php" aria-haspopup="true" aria-expanded="false" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp" style="background: lightslategrey; padding: 4px 20px 4px 20px; border-radius: 4px; border: 1px solid #919ca7; font-size: 13px;"> <span>IT Consulting</span> </a>
+              </div>
+          </div>
+          <div class="col-md-auto">
+            <div class="dropdown">
+                <a href="our_strength.php" aria-haspopup="true" aria-expanded="false" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp" style="background: lightslategrey; padding: 4px 20px 4px 20px; border-radius: 4px; border: 1px solid #919ca7; font-size: 13px;"> <span>Our Strength</span> </a>
+              </div>
+          </div>
+          <div class="col-md-auto">
+            <div class="dropdown">
+                <a href="javascript:void(0)" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp" style="background: lightslategrey; padding: 4px 20px 4px 20px; border-radius: 4px; border: 1px solid #919ca7; font-size: 13px;"> <span>Our Sister Concern</span> </a>
+
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Navigation Start -->
+    <nav class="navbar navbar-expand-lg bg-transparent">
+      <div class="container text-nowrap">
+        <div class="d-flex align-items-center col p-0">
+          <a class="navbar-brand rounded-bottom light-bg" href="index.php">
+            <img src="images/logo1.png" alt="">
+          </a>
+        </div>
+        <!-- Topbar Request Quote Start -->
+        <div class="d-inline-flex request-btn order-lg-last col p-0">
+          <a class="btn-theme icon-left bg-orange no-shadow d-none d-lg-inline-block align-self-center" href="javascript:void" role="button"><i class="icofont-page"></i> Enquiry</a>
+          <!-- Toggle Button Start -->
+          <button class="navbar-toggler x collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+          <!-- Toggle Button End -->
+        </div>
+        <!-- Topbar Request Quote End -->
+
+        <div class="collapse navbar-collapse" id="navbarCollapse" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp">
+          <ul class="navbar-nav ml-auto">
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle-mob" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Digital Transformation <i class="icofont-rounded-down"></i></a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a href="big_data.php" class="dropdown-item">Big Data</a></li>
+                        <li><a href="data_sciences_analytics.php" class="dropdown-item">Data Sciences &amp; Analytics</a></li>
+                        <li><a href="social_media_services.php" class="dropdown-item">Social Media Services</a></li>
+                        <li><a href="automation_anywhere.php" class="dropdown-item">Automation Anywhere</a></li>
+                        <li><a href="cloud_services.php" class="dropdown-item">Cloud Services</a></li>
+                        <li><a href="mobility_services.php" class="dropdown-item">Mobility Services</a></li>
+                        <li><a href="robotic_process_automation.php" class="dropdown-item">Robotic Process Automation</a></li>
+                      </ul>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle-mob" href="#!" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> IT Outsourcing <i class="icofont-rounded-down"></i></a>
+                      <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a href="application_services.php" class="dropdown-item">Application Services </a></li>
+                        <li><a href="infrastructure_management_services.php" class="dropdown-item">Infrastructure Management Services</a></li>
+                        <li><a href="testing_services.php" class="dropdown-item">Testing Services</a></li>
+                        <li><a href="managed_services.php" class="dropdown-item">Managed Services</a></li>
+                        <li><a href="enterprise_modernization.php" class="dropdown-item">Enterprise Modernization</a></li>
+                        <li><a href="captive_insourcing.php" class="dropdown-item">Captive Insourcing </a></li>
+                        <li><a href="strategic_consulting.php" class="dropdown-item">Strategic Consulting</a></li>
+                        <li><a href="outsourced_product_development.php" class="dropdown-item">Outsourced Product Development</a></li>
+                        <li><a href="system_integration.php" class="dropdown-item">System Integration</a></li>
+                        <li><a href="enterprise_solutions.php" class="dropdown-item">Enterprise Solutions</a></li>
+                      </ul>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle-mob" href="javascript:void(0)" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Technology <i class="icofont-rounded-down"></i></a>
+                <ul class="dropdown-menu dropdownhover-bottom" aria-labelledby="navbarDropdown">
+                        <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SAP <i class="icofont-rounded-right float-right"></i></a>
+                          <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                <li class="dropdown"><a href="sap_s4hana_finance.php" class="dropdown-item">S/4HANA Finance </a></li>
+                                <li class="dropdown"><a href="sap_hana_services.php" class="dropdown-item">SAP HANA SERVICES </a></li>
+                                <li class="dropdown"><a href="sap_conversion_package.php" class="dropdown-item">S/4HANA conversion package </a></li>
+                                <li class="dropdown"><a href="sap_sustainability_solution.php" class="dropdown-item">Sustainability Solutions</a></li>
+                                <li class="dropdown"><a href="sap_sds.php" class="dropdown-item">EHS Regulatory (SDS) Documentation </a></li>
+                                <li class="dropdown"><a href="sap_safety_rds.php" class="dropdown-item">Safety One-The Health &amp; Safety RDS </a></li>
+                                <li class="dropdown"><a href="sap_environment.php" class="dropdown-item">SAP Environment Health &amp; Safety Management </a></li>
+                                <li class="dropdown"><a href="sap_product.php" class="dropdown-item">SAP Product Safety &amp; Stewardship </a></li>
+                                <li class="dropdown"><a href="sap_cloud.php" class="dropdown-item">SAP Cloud </a></li>
+                                <li class="dropdown"><a href="sap_hana_cloud.php" class="dropdown-item">SAP S/4 HANA Cloud </a></li>
+                                <li class="dropdown"><a href="sap_business.php" class="dropdown-item">Business By Design</a></li>
+                                <li class="dropdown"><a href="sap_innovation.php" class="dropdown-item">Innovation For SMEs </a></li>
+                          </ul>
+                        </li>
+                        <li><a class=" dropdown-item" href="ibm_solution.php">IBM</a></li>
+
+                        <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Microsoft <i class="icofont-rounded-right float-right"></i></a>
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li class="dropdown"><a href="microsoft_applications.php" class="dropdown-item">Applications Technologies <i class="icofont-rounded-right float-right"></i></a>
+                              <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                    <li class="dropdown"><a class=" dropdown-item" href="microsoft_applications.php">Business Intelligence</a></li>
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_applications.php#dynamics" aria-haspopup="true" aria-expanded="false">Microsoft Dynamics 365</a></li>
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_applications.php#office" aria-haspopup="true" aria-expanded="false">Office 365</a></li>
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_applications.php#powerapps" aria-haspopup="true" aria-expanded="false">PowerApps</a></li>
+                              </ul>
+                            </li>
+                            <li class="dropdown"><a href="microsoft_technologies.php" class="dropdown-item">Technologies <i class="icofont-rounded-right float-right"></i></a>
+                              <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_technologies.php" aria-haspopup="true" aria-expanded="false">BizTalk Server </a></li>
+                                    <li class="dropdown"><a class=" dropdown-item" href="microsoft_technologies.php#custom" aria-haspopup="true" aria-expanded="false">Custom Development (Windows &amp; Web) </a></li>
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_technologies.php#ppm" aria-haspopup="true" aria-expanded="false">Microsoft PPM </a></li>
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_technologies.php#azure" aria-haspopup="true" aria-expanded="false">Microsoft Windows Azure </a></li>
+                                    <li class="dropdown"><a class="dropdown-item" href="microsoft_technologies.php#sharepoint" aria-haspopup="true" aria-expanded="false">SharePoint Server </a></li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle  <i class="icofont-rounded-right float-right"></i></a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                              <li class="dropdown"><a href="#" class="dropdown-item">Applications  <i class="icofont-rounded-right float-right"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">E-Business Suite on Premise </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">JD Edwards </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PeopleSoft </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Siebel </a></li>
+                                </ul>
+                              </li>
+                              <li class="dropdown"><a href="#" class="dropdown-item">Data Integration Services <i class="icofont-rounded-right float-right"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">GoldenGate </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Oracle Data Integrator </a></li>
+                                </ul>
+                              </li>
+                              <li class="dropdown"><a href="#" class="dropdown-item">EPM/BI <i class="icofont-rounded-right float-right"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hyperion </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hyperion Financial Management </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">OBIEE </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Exalytics </a></li>
+                                </ul>
+                              </li>
+                              <li class="dropdown"><a href="#" class="dropdown-item">Fusion Middleware <i class="icofont-rounded-right float-right"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">JCAPS Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle ADF </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle BPM Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle Forms Migration </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle Identity Management </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle SOA Suite </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle WebCenter </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Stellent to UCM migration </a></li>
+                                </ul>
+                              </li>
+                              <li class="dropdown"><a href="#" class="dropdown-item">Consulting Services <i class="icofont-rounded-right float-right"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Application Management Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Architecture &amp; Integration Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Upgrade &amp; Migration Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Implementation Services </a></li>
+                                </ul>
+                              </li>
+                              <li class="dropdown"><a href="#" class="dropdown-item">Other Services </a>
+                              </li>
+                              <li class="dropdown"><a href="#" class="dropdown-item">Oracle Cloud Offerings <i class="icofont-rounded-right float-right"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Managed Cloud Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle BI Cloud </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle Cloud Migration Services </a></li>
+                                      <li class="dropdown"><a class="dropdown-toggle-mob dropdown-item" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oracle on Cloud Solution </a></li>
+                                </ul>
+                              </li>
+                            </ul>
+                        </li>
+                </ul>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle-mob" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> Industries <i class="icofont-rounded-down"></i></a>
+                      <ul class="dropdown-menu dropdownhover-bottom" aria-labelledby="navbarDropdown">
+                        <li><a href="industries_automotive.php" class="dropdown-item">Automotive</a></li>
+                        <li><a href="industries_chemicals.php" class="dropdown-item">Chemicals</a></li>
+                        <li><a href="industries_consumer_goods.php" class="dropdown-item">Consumer Goods</a></li>
+                        <li><a href="industries_government.php" class="dropdown-item">Government</a></li>
+                        <li><a href="industries_hi_tech.php" class="dropdown-item">Hi-Tech</a></li>
+                        <li><a href="industries_manufacturing.php" class="dropdown-item">Manufacturing</a></li>
+                        <li><a href="industries_wholesale_distribution.php" class="dropdown-item">Wholesale Distribution</a></li>
+                        <li><a href="industries_banking_financial_services_and_insurance.php" class="dropdown-item">Banking Financial Services &amp; Insurance</a></li>
+                        <li><a href="industries_construction_and_real_estate.php" class="dropdown-item">Construction &amp; Real Estate</a></li>
+                        <li><a href="industries_education.php" class="dropdown-item">Education</a></li>
+                        <li><a href="industries_healthcare.php" class="dropdown-item">Healthcare</a></li>
+                        <li><a href="industries_life_sciences.php" class="dropdown-item">Life Sciences</a></li>
+                        <li><a href="industries_professional_services.php" class="dropdown-item">Professional Services</a></li>
+                      </ul>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle-mob" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> Resources <i class="icofont-rounded-down"></i></a>
+                      <ul class="dropdown-menu dropdownhover-bottom" aria-labelledby="navbarDropdown">
+                        <li><a href="javascript:void(0)" class="dropdown-item">Blogs</a></li>
+                        <li><a href="javascript:void(0)" class="dropdown-item">Events</a></li>
+                        <li><a href="javascript:void(0)" class="dropdown-item">Media</a></li>
+                      </ul>
+              </li>
+
+          </ul>
+          <!-- Main Navigation End -->
+        </div>
+
+      </div>
+    </nav>
+    <!-- Main Navigation End -->
+  </header>
+
+  <!-- Page Breadcrumbs Start -->
+  <div class="slider bg-navy-blue bg-scroll pos-rel breadcrumbs-page">
+    <div class="container">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="index.php"><i class="icofont-home"></i></a></li>
+          <li class="breadcrumb-item active" aria-current="page">About Us</li>
+        </ol>
+      </nav>
+
+      <h1>About Us</h1>
+      <!-- <div class="breadcrumbs-description">
+        Meet the amazing team behind this project and find out more about how we work.
+      </div> -->
+    </div>
+  </div>
+  <!-- Page Breadcrumbs End -->
+
+  <!-- Main Body Content Start -->
+  <main id="body-content">
+
+    <!-- About Us Section Start -->
+    <section class="bg-light-gray wide-tb-30 bg-wave">
+      <div class="container pos-rel">
+        <div class="row">
+
+
+          <div class="col-md-8 ml-auto why-choose wow fadeInRight" data-wow-duration="0" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInRight;">
+            <!-- Heading Main -->
+            <h1 class="heading-main text-left wow fadeInDown" data-wow-duration="0" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInDown;">
+              <span>ABOUT US</span>
+              Welcome To ProGeek
+            </h1>
+            <!-- Heading Main -->
+            <h5>IT’S TIME TO TAKE THE JUMP. IT’S TIME TO EMBRACE THE CHANGE WITH ProGeek.</h5>
+
+            <p style="font-size: 14px; color: #000;">ProGeek, one of the largest technologies service providers globally, brings the right set of people, technologies and domain. The pace at which technology is evolving and the opportunities it is offering continue to dazzle us. Ours is an impatient quest for innovation for new approaches, solutions and answers to business problems and challenges. We are always driven and motivated by the delight of making a difference and that originality is intertwined in our culture. New ideas spur and new possibilities emerge with ProGeek as your Partner.</p>
+
+            <p style="font-size: 14px; color: #000;">In today’s fast-paced digital world, companies are under constant pressure to deliver innovative products/services, drive outstanding customer experience, and fostering exponential growth and all the while differentiating themselves from the competition. As a result, enterprise systems that run their business needs to be faster, simpler, flexible and scalable.</p>
+            <!-- <a href="about_us.php" class="btn-theme bg-orange">read more <i class="icofont-rounded-right"></i></a> -->
+
+
+          </div>
+
+          <div class="col-md-4">
+            <img src="images/about.jpg" class="bordered-img" alt="">
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- About Us Section End -->
+
+    <!-- What Makes Us Special Start -->
+    <section class="bg-light-gray wide-tb-30 pb-5 why-choose">
+      <div class="container pos-rel">
+        <div class="row">
+          <!-- Heading Main -->
+          <div class="col-sm-12 wow fadeInDown" data-wow-duration="0" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInDown;">
+            <h1 class="heading-main">
+              <span>Our Goodness</span>
+              What Makes Us Special
+            </h1>
+          </div>
+          <!-- Heading Main -->
+
+          <!-- Icon Box 2 -->
+          <div class="col-12 col-lg-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+            <div class="icon-box-2">
+              <div class="media">
+                  <div class="service-icon">
+                      <i class="icofont-id"></i>
+                  </div>
+                  <div class="service-inner-content media-body">
+                      <h4 class="h4-md">Trusted Franchise</h4>
+                      <p>As a business structure, a franchise can certainly be an appealing option. With a number of advantages, it is often the choice of those looking to start a new business without the risks associated with going out on their own.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Icon Box -->
+
+          <!-- Icon Box 2 -->
+          <div class="col-12 col-lg-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+            <div class="icon-box-2">
+              <div class="media">
+                  <div class="service-icon">
+                      <i class="icofont-live-support"></i>
+                  </div>
+                  <div class="service-inner-content media-body">
+                      <h4 class="h4-md">Customer Support</h4>
+                      <p>We provided to assist customers in making cost effective and correct use of a product. It includes assistance in planning, installation, training, trouble shooting, maintenance, upgrading, and disposal of the product.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Icon Box -->
+
+          <!-- Icon Box 2 -->
+          <div class="col-12 col-lg-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+            <div class="icon-box-2">
+              <div class="media">
+                  <div class="service-icon">
+                      <i class="icofont-history"></i>
+                  </div>
+                  <div class="service-inner-content media-body">
+                      <h4 class="h4-md">Reliability </h4>
+                      <p>there’s a substantial body of research on quality, disagreement remains as to the effect of reliability, or things gone wrong, as opposed to customization, or things gone right, on customer satisfaction with goods and services.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Icon Box -->
+
+          <!-- Icon Box 2 -->
+          <div class="col-12 col-lg-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+            <div class="icon-box-2">
+              <div class="media">
+                  <div class="service-icon">
+                      <i class="icofont-briefcase-1"></i>
+                  </div>
+                  <div class="service-inner-content media-body">
+                      <h4 class="h4-md">Consulting Services</h4>
+                      <p>We have top level of expertise that a particular group of people find valuable, and people within that group are willing to pay the consultant to access their expertise.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Icon Box -->
+
+          <!-- Icon Box 2 -->
+          <div class="col-12 col-lg-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+            <div class="icon-box-2">
+              <div class="media">
+                  <div class="service-icon">
+                      <i class="icofont-shield"></i>
+                  </div>
+                  <div class="service-inner-content media-body">
+                      <h4 class="h4-md">Quality</h4>
+                      <p>there’s a substantial body of research on quality, disagreement remains as to the effect of reliability, or things gone wrong, as opposed to customization, or things gone right, on customer satisfaction with goods and Products.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Icon Box -->
+
+          <!-- Icon Box 2 -->
+          <div class="col-12 col-lg-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.10s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <div class="icon-box-2">
+              <div class="media">
+                  <div class="service-icon">
+                      <i class="icofont-box"></i>
+                  </div>
+                  <div class="service-inner-content media-body">
+                      <h4 class="h4-md">Analysis</h4>
+                      <p>We will include an accurate description of the technology market and thorough market research. We conveys a holistic picture of a technology market. In Our company consists of different areas in which information is collected and analyzed.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Icon Box -->
+        </div>
+
+      </div>
+    </section>
+    <!-- What Makes Us Special End -->
+
+
+    <!-- Our Team Start -->
+    <section class="wide-tb-30 pb-0 team-section-bottom pos-rel">
+      <div class="container">
+        <!-- Heading Main -->
+        <div class="col-sm-12">
+          <h1 class="heading-main">
+            <span>Face Behind ProGeek</span>
+            Our Team
+          </h1>
+        </div>
+        <!-- Heading Main -->
+
+        <div class="row pb-4">
+          <!-- Team Column One -->
+          <div class="col-sm-12 col-md-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+            <div class="team-section-two">
+              <img src="images/team/team.jpg" alt="" class="rounded">
+              <h4 class="h4-md txt-orange">Mr. Dinesh Kumar <br> (MD &amp; CEO) </h4>
+              <h5 class="h5-md txt-ligt-gray">MBA, PGDBM (IR &amp; Labour Laws)</h5>
+            </div>
+          </div>
+          <!-- Team Column One -->
+
+          <!-- Team Column One -->
+          <div class="col-sm-12 col-md-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <div class="team-section-two">
+              <img src="images/team/team.jpg" alt="" class="rounded">
+              <h4 class="h4-md txt-orange">Mr. Sandeep Lashakar <br> (Founder) </h4>
+              <h5 class="h5-md txt-ligt-gray">MPM (IR &amp; Labour Laws)</h5>
+            </div>
+          </div>
+          <!-- Team Column One -->
+
+          <!-- Team Column One -->
+          <div class="col-sm-12 col-md-4 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+            <div class="team-section-two">
+              <img src="images/team/team.jpg" alt="" class="rounded">
+              <h4 class="h4-md txt-orange">Mr. Ram Navesh Lashakar <br> (General Manager) </h4>
+              <h5 class="h5-md txt-ligt-gray">B.A. &amp; M.A.</h5>
+            </div>
+          </div>
+          <!-- Team Column One -->
+
+        </div>
+      </div>
+    </section>
+    <!-- Our Team End -->
+
+
+    <!-- Frequently Asked Questions Start -->
+    <section class="wide-tb-30 faqs">
+      <div class="container">
+        <div class="row">
+            <!-- Heading Main -->
+            <div class="col-sm-12">
+              <h1 class="heading-main">
+                <span>Frequently Asked</span>
+                Questions
+              </h1>
+            </div>
+            <!-- Heading Main -->
+
+            <!-- Questions -->
+            <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
+                <h4 class="h4-md mb-3">Lobortis sit magna ornare magna egestas?</h4>
+                <p>Etiam sit amet mauris suscipit sit amet in odio. Integer congue leo metus. Vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna suscipit luctus undo blandit vitae purus laoreet</p>
+            </div>
+            <!-- Questions -->
+
+            <!-- Questions -->
+            <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                <h4 class="h4-md mb-3">Aliquam dapibus pretium ornare?</h4>
+                <p>Feugiat eros ligula massa lipsum primis in orci luctus et ultrices posuere cubilia curae congue lorem. ante ipsum primis in faucibus bibendum sit amet in odio</p>
+            </div>
+            <!-- Questions -->
+
+            <!-- Questions -->
+            <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                <h4 class="h4-md mb-3">Placeat axime facere omnis volute?</h4>
+                <p>Etiam sit amet mauris suscipit sit amet in odio. Integer congue leo metus. Vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna suscipit luctus undo blandit vitae purus laoreet</p>
+            </div>
+            <!-- Questions -->
+
+            <!-- Questions -->
+            <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                <h4 class="h4-md mb-3">Dapibus lobortis pretium ornare?</h4>
+                <p>Feugiat eros ligula massa lipsum primis in orci luctus et ultrices posuere cubilia curae congue lorem. ante ipsum primis in faucibus bibendum sit amet in odio</p>
+            </div>
+            <!-- Questions -->
+
+            <!-- Questions -->
+            <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+                <h4 class="h4-md mb-3">An interdum lobortis pretium ornare?</h4>
+                <p>Etiam sit amet mauris suscipit sit amet in odio. Integer congue leo metus. Vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna suscipit luctus undo blandit vitae purus laoreet</p>
+            </div>
+            <!-- Questions -->
+
+            <!-- Questions -->
+            <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;">
+                <h4 class="h4-md mb-3">Interdum lobortis pretium ornare?</h4>
+                <p>Feugiat eros ligula massa lipsum primis in orci luctus et ultrices posuere cubilia curae congue lorem. ante ipsum primis in faucibus bibendum sit amet in odio</p>
+            </div>
+            <!-- Questions -->
+        </div>
+      </div>
+    </section>
+    <!-- Frequently Asked Questions End -->
+
+
+  </main>
+
+
+
+
+
+  <!-- Main Footer Start -->
+  <footer class="wide-tb-30 bg-sky-blue pb-0" style="color: #000; border-top: 1px solid #d8970b;">
+    <div class="container">
+      <div class="row">
+
+        <!-- Column First -->
+        <div class="col-lg-3 col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeInLeft;">
+          <div class="logo-footer">
+            <img src="images/logo1.png" alt="">
+          </div>
+          <p>RPML has experience in process automation, Enterprise Resource Planning (ERP), E-Business, and regulatory compliance. We develop and maintain secure, reliable and cost-effective solutions.</p>
+        </div>
+        <!-- Column First -->
+
+        <!-- Column Second -->
+        <div class="col-lg-2 col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+          <h3 class="footer-heading">Quick Links</h3>
+          <div class="blog-list-footer">
+            <ul class="list-unstyled">
+              <li><a href="index.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Home  </a></li>
+              <li><a href="about_us.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> About Us </a></li>
+              <li><a href="big_data.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Our Services </a></li>
+              <li><a href=".php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Our Strength </a></li>
+              <li><a href=".php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> IT Consulting </a></li>
+              <li><a href="contact_us.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Contact Us </a></li>
+              <li><a href="contact_us.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Enquiry </a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
+          <h3 class="footer-heading">What We Provides</h3>
+          <div class="blog-list-footer">
+            <ul class="list-unstyled">
+              <li><a href="application_services.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> IT Outsourcing </a></li>
+              <li><a href="big_data.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Digital Transformation </a></li>
+              <li><a href="microsoft_applications.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Microsoft Solutions </a></li>
+              <li><a href="ibm_solution.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> IBM Solutions </a></li>
+              <li><a href="javascript:void(0)"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Oracle Solutions </a></li>
+              <li><a href="sap_s4hana_finance.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Technologies Solutions</a></li>
+              <li><a href="industries_automotive.php"><svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fa" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fa fa-angle-right"></i> --> Industries Solutions</a></li>
+            </ul>
+          </div>
+        </div>
+
+
+        <!-- Column First -->
+        <div class="col-lg-4 col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+          <h3 class="footer-heading">Get in Touch</h3>
+          <p style="text-align: initial;"><i class="icofont-google-map"></i><span style="font-weight: 500;"> Corporate Office Address : </span> <br>  S.N. 3/9 A/9 Durvankurniwas, Ektacolony, Warje,   <br>
+          <!--<span style="font-weight: 500;">Phone :</span> <a href="tel:0000000000"> <span style="color: #000;"> +91-0000000000</span></a><br>-->
+          <span style="font-weight: 500;">Email :</span> <a href="mailto:info@progeeksoftware.com"><span style="color: #000;"> info@progeeksoftware.com</span></a>
+          </p>
+
+          <p style="text-align: initial;"><i class="icofont-google-map"></i><span style="font-weight: 500;"> Nepal New Branch Office : </span> <br> Subidhanagar-35, Koteshwor, Ktm Near White House College, Nepal. <br>
+          <!-- <span style="font-weight: 500;">Phone :</span> <a href="tel:9843014299"> <span style="color: #000;"> +977-9843014299</span></a>, &nbsp;<a href="tel:9851076550"> <span style="color: #000;"> +977-9851076550</span></a><br>
+          <span style="font-weight: 500;">Email :</span> <a href="mailto:miyon.international@gmail.com"><span style="color: #000;"> miyon.international@gmail.com</span></a> -->
+          </p>
+          <!-- <p><i class="icofont-ui-touch-phone"></i><a style="color: #000;" href="tel:0000000000"> +91-0000000000</p>
+          <p><i class="icofont-ui-email"></i><a style="color: #000;" href="mailto:info@progeeksoftware.com"> info@progeeksoftware.com</p> -->
+
+          <!-- <h3 class="footer-heading">We're Social</h3>
+          <div class="social-icons">
+              <a href="#"><i style="color: #000;" class="icofont-facebook"></i></a>
+              <a href="#"><i style="color: #000;" class="icofont-twitter"></i></a>
+              <a href="#"><i style="color: #000;" class="icofont-whatsapp"></i></a>
+              <a href="#"><i style="color: #000;" class="icofont-google-plus"></i></a>
+            </div> -->
+        </div>
+        <!-- Column First -->
+
+        <!-- <div class="col-lg-3 col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0.3s">
+          <h3 class="footer-heading">Get in Touch</h3>
+          <div class="blog-list-footer">
+            <ul class="list-unstyled">
+              <li><i class="icofont-google-map"></i>   </li>
+              <li><i class="icofont-ui-touch-phone"></i><a href="tel:0000000000" style="color: #fff;"> +91-0000000000</li>
+              <li><i class="icofont-ui-email"></i><a href="mailto:info@progeeksoftware.com" style="color: #fff;"> info@progeeksoftware.com</li>
+            </ul>
+          </div>
+        </div> -->
+      </div>
+    </div>
+
+    <div class="copyright-wrap wide-tb-20" style="background-color: #091f63; border-top: 2px solid #d8970b;">
+      <div class="container">
+        <div class="row text-md-left text-center">
+            <div class="col-sm-12 col-md-8 text-left">
+                 <a href="index.php" rel="nofollow" style="font-weight: bold;">ProGeek</a> © 2020 All Rights Reserved.
+                 <!-- <span>|</span>
+                  Designed &amp; Developed by: <a href="http://ginfosoft.com" rel="nofollow" style="font-weight: bold;">G-Infosoft Technologies</a> -->
+            </div>
+            <div class="col-sm-12 col-md-4 copyright-links text-right">
+              <a href="javascript:void(0)">Privacy Policy</a>   <span>|</span>   <a href="javascript:void(0)">Sitemap</a>
+            </div>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Main Footer End -->
+
+  <!-- Search Popup Start -->
+  <div class="overlay overlay-hugeinc">
+    <form class="form-inline mt-2 mt-md-0">
+      <div class="form-inner">
+        <div class="form-inner-div d-inline-flex align-items-center no-gutters">
+          <div class="col-md-1">
+            <i class="icofont-search"></i>
+          </div>
+          <div class="col-10">
+            <input class="form-control w-100 p-0" type="text" placeholder="Search" aria-label="Search">
+          </div>
+          <div class="col-md-1">
+            <a href="#" class="overlay-close link-oragne"><i class="icofont-close-line"></i></a>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <!-- Search Popup End -->
+
+  <!-- Request Modal -->
+  <div class="modal fade" id="request_popup" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered request_popup" role="document">
+      <div class="modal-content">
+        <div class="modal-body p-0">
+          <!-- Contact Details Start -->
+          <section class="pos-rel bg-light-gray">
+            <div class="container-fluid p-0">
+              <a href="#" class="close" data-dismiss="modal" aria-label="Close">
+                  <i class="icofont-close-line"></i>
+                </a>
+              <div class="d-lg-flex justify-content-end no-gutters mb-spacer-md" style="box-shadow: 0px 18px 76px 0px rgba(0, 0, 0, 0.06);">
+                <div class="col bg-fixed bg-img-7 request_pag_img">
+                    &nbsp;
+                </div>
+
+
+                <div class="col-md-7 col-12">
+                    <div class="px-3 m-5">
+                      <h2 class="h2-xl mb-4 fw-6">Request A Quote</h2>
+                      <form action="#" method="post" novalidate="novalidate" class="rounded-field">
+
+                          <div class="form-row mb-4">
+                            <div class="col">
+                              <select title="Please choose a package" required="" name="package" class="custom-select" aria-required="true" aria-invalid="false">
+                                  <option value="">Freight Type</option>
+                                  <option value="Type 1">Type 1</option>
+                                  <option value="Type 2">Type 2</option>
+                                  <option value="Type 3">Type 3</option>
+                                  <option value="Type 4">Type 4</option>
+                              </select>
+                            </div>
+                            <div class="col">
+                              <select title="Please choose a package" required="" name="package" class="custom-select" aria-required="true" aria-invalid="false">
+                                  <option value="">Incoterms</option>
+                                  <option value="Type 1">Type 1</option>
+                                  <option value="Type 2">Type 2</option>
+                                  <option value="Type 3">Type 3</option>
+                                  <option value="Type 4">Type 4</option>
+                              </select>
+                            </div>
+                          </div>
+                          <div class="form-row mb-4">
+                            <div class="col">
+                              <input type="text" name="name" class="form-control" placeholder="City of departure">
+                            </div>
+                            <div class="col">
+                              <input type="text" name="email" class="form-control" placeholder="Delivery city">
+                            </div>
+                          </div>
+                          <div class="form-row mb-4">
+                            <div class="col">
+                              <input type="text" name="name" class="form-control" placeholder="Total gross weight (KG)">
+                            </div>
+                            <div class="col">
+                              <input type="text" name="email" class="form-control" placeholder="Dimension">
+                            </div>
+                          </div>
+
+                          <div class="form-row">
+                            <div class="col">
+                              <div class="center-head"><span class="bg-light-gray txt-orange">Your Personal Details</span></div>
+                            </div>
+                          </div>
+                          <div class="form-row mb-4">
+                            <div class="col">
+                              <input type="text" name="name" class="form-control mb-3" placeholder="Your Name">
+                              <input type="text" name="name" class="form-control mb-3" placeholder="Email">
+                              <input type="text" name="name" class="form-control" placeholder="Phone Number">
+                            </div>
+                            <div class="col">
+                              <textarea rows="7" placeholder="Message" class="form-control"></textarea>
+                            </div>
+                          </div>
+                          <div class="form-row">
+                            <div class="col pt-3">
+                              <button type="submit" class="form-btn btn-theme bg-orange">Send Message <i class="icofont-rounded-right"></i></button>
+                            </div>
+                          </div>
+                      </form>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- Contact Details End -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Request Modal -->
+
+  <!-- Back To Top Start -->
+  <a id="mkdf-back-to-top" href="#" class="off"><i class="icofont-rounded-up"></i></a>
+  <!-- Back To Top End -->
+
+  <!-- Main JavaScript -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/bootstrap-dropdownhover.min.js"></script>
+  <script src="js/fontawesome-all.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="twitter/jquery.tweet.js"></script>
+  <script src="js/jflickrfeed.min.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/jquery.counterup.min.js"></script>
+  <script src="js/jquery.easypiechart.min.js"></script>
+  <script src="js/jquery.appear.js"></script>
+  <script src="js/wow.min.js"></script>
+
+  <!-- JQuery Map Plugin -->
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+  <script type="text/javascript" src="js/jquery.gmap.min.js"></script>
+
+
+  <!-- REVOLUTION JS FILES -->
+  <script type="text/javascript" src="rev-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+  <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+  <script type="text/javascript" src="rev-slider/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+  <script src="js/site-custom.js"></script>
+
+  <script type="text/javascript">
+    var tpj=jQuery;
+
+    var revapi1078;
+    tpj(document).ready(function() {
+      if(tpj("#rev_slider_1078_1").revolution == undefined){
+        revslider_showDoubleJqueryError("#rev_slider_1078_1");
+      }else{
+        revapi1078 = tpj("#rev_slider_1078_1").show().revolution({
+          sliderType:"standard",
+jsFileLocation:"revolution/js/",
+          sliderLayout:"fullscreen",
+          dottedOverlay:"none",
+          delay:9000,
+          navigation: {
+            keyboardNavigation:"off",
+            keyboard_direction: "horizontal",
+            mouseScrollNavigation:"off",
+            mouseScrollReverse:"default",
+            onHoverStop:"off",
+            touch:{
+              touchenabled:"on",
+              swipe_threshold: 75,
+              swipe_min_touches: 1,
+              swipe_direction: "horizontal",
+              drag_block_vertical: false
+            }
+            ,
+            arrows: {
+              style:"metis",
+              enable:true,
+              hide_onmobile:true,
+              hide_under:600,
+              hide_onleave:true,
+              hide_delay:200,
+              hide_delay_mobile:1200,
+              //tmp:'<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
+              left: {
+                h_align:"left",
+                v_align:"center",
+                h_offset:30,
+                v_offset:0
+              },
+              right: {
+                h_align:"right",
+                v_align:"center",
+                h_offset:30,
+                v_offset:0
+              }
+            }
+            ,
+            bullets: {
+              style: 'hades',
+              tmp: '<span class="tp-bullet-image"></span>',
+              enable:false,
+              hide_onmobile:true,
+              hide_under:600,
+              //style:"metis",
+              hide_onleave:true,
+              hide_delay:200,
+              hide_delay_mobile:1200,
+              direction:"horizontal",
+              h_align:"center",
+              v_align:"bottom",
+              h_offset:0,
+              v_offset:30,
+              space:5,
+              //tmp:'<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{title}}</span>'
+            }
+          },
+          viewPort: {
+            enable:true,
+            outof:"pause",
+            visible_area:"80%",
+            presize:false
+          },
+          responsiveLevels:[1240,1024,778,480],
+          visibilityLevels:[1240,1024,778,480],
+          gridwidth:[1240,1024,778,480],
+          gridheight:[600,600,500,400],
+          lazyType:"none",
+          parallax: {
+            type:"mouse",
+            origo:"slidercenter",
+            speed:2000,
+            levels:[2,3,4,5,6,7,12,16,10,50,47,48,49,50,51,55],
+            type:"mouse",
+          },
+          shadow:0,
+          spinner: 'spinner2',
+          stopLoop:"off",
+          stopAfterLoops:-1,
+          stopAtSlide:-1,
+          shuffle:"off",
+          autoHeight:"off",
+          hideThumbsOnMobile:"off",
+          hideSliderAtLimit:0,
+          hideCaptionAtLimit:0,
+          hideAllCaptionAtLilmit:0,
+          debugMode:false,
+          fallbacks: {
+            simplifyAll:"off",
+            nextSlideOnWindowFocus:"off",
+            disableFocusListener:false,
+          }
+        });
+      }
+    }); /*ready*/
+  </script>
+
+
+<!-- Mirrored from mannatstudio.com/html/logzee/index-5.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Nov 2019 09:58:13 GMT -->
+</body></html>

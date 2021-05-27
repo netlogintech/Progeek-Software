@@ -1,0 +1,471 @@
+﻿<!DOCTYPE html>
+{%load static%}
+{% load widget_tweaks %}
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Progeek Software</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+{% for i in head%}
+  <!-- Favicons -->
+  <link href="{{i.title_icon.url}}" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="{% static "assets/vendor/bootstrap/css/bootstrap.min.css"%}" rel="stylesheet">
+  <link href="{% static "assets/vendor/icofont/icofont.min.css"%}" rel="stylesheet">
+  <link href="{%static "assets/vendor/boxicons/css/boxicons.min.css"%}" rel="stylesheet">
+  <link href="{%static "assets/vendor/owl.carousel/assets/owl.carousel.min.css"%}" rel="stylesheet">
+  <link href="{%static "assets/vendor/remixicon/remixicon.css"%}" rel="stylesheet">
+  <link href="{%static "assets/vendor/venobox/venobox.css"%}" rel="stylesheet">
+  <link href="{%static "assets/vendor/aos/aos.css"%}" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="{%static "assets/css/style.css"%}" rel="stylesheet">
+
+<style media="screen">
+
+
+</style>
+</head>
+
+<body>
+
+{%include "app/navbar.html"%}
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container-fluid" data-aos="zoom-out" data-aos-delay="100">
+      <div class="row justify-content-center">
+        <div class="col-xl-10">
+          <div class="row">
+            <div class="col-xl-5">
+              <h1>Get quality work with Progeek Software</h1>
+              <h2>Committed toward Quality</h2>
+              <a href="/#about" class="btn-get-started scrollto">Get Started</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row no-gutters">
+          <div class="content col-xl-5 d-flex align-items-stretch">
+            <div class="content">
+              <h3>Our Passion, Your Business</h3>
+              <p>
+              Progeek Software, one of the Technology  service providers globally, brings the right set of people, technologies and domain. The pace at which technology is evolving and the opportunities it is offering continue to dazzle us. Ours is an impatient quest for innovation for new approaches, solutions and answers to business problems and challenges. We are always driven and motivated by the delight of making a difference and that originality is intertwined in our culture. New ideas spur and new possibilities emerge with Progeek Software as your Partner.
+              </p>
+              <a href="/about" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a>
+            </div>
+          </div>
+          <div class="col-xl-7 d-flex align-items-stretch">
+            <div class="icon-boxes d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-receipt"></i>
+                  <h4>Trusted Franchise</h4>
+                  <p>As a business structure, a business can absolutely be an engaging choice. With various benefits, it is regularly the decision of those hoping to begin another business without the risks related with going out on their own.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4>Customer Support</h4>
+                  <p>We provided to assist customers in making cost-effective and correct use of a product. It helps for arranging, establishment, preparing, investigating, support, updating, and removal of the product.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bx bx-images"></i>
+                  <h4>Analysis</h4>
+                  <p>We will incorporate a precise depiction of the technology innovation market and exhaustive statistical surveying. We convey an all-encompassing image of a technology market. Our organization comprises various zones in which data is gathered and examined.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+                  <i class="bx bx-shield"></i>
+                  <h4>Quality</h4>
+                  <p>There’s a substantial body of quality research, disagreement remains as to the effect of reliability, or things gone wrong, as opposed to customization, or things have gone right, on customer satisfaction with goods and Products.</p>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="count-box">
+              <i class="icofont-simple-smile"></i>
+              <span data-toggle="counter-up">232</span>
+              <p>Happy Clients</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+            <div class="count-box">
+              <i class="icofont-document-folder"></i>
+              <span data-toggle="counter-up">521</span>
+              <p>Projects</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="icofont-live-support"></i>
+              <span data-toggle="counter-up">1,463</span>
+              <p>Hours Of Support</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="icofont-users-alt-5"></i>
+              <span data-toggle="counter-up">15</span>
+              <p>Hard Workers</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+
+    <!-- ======= Tabs Section ======= -->
+    <!-- End Tabs Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg ">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p></p>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <i class="icofont-computer"></i>
+              <h4><a href="/it-outsourcing">IT Outsourcing</a></h4>
+              <p>Choose  Progeek  Software as your strategic AMS partner to successfully manage your application portfolio :</p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <i class="icofont-chart-bar-graph"></i>
+              <h4><a href="/automation">Digital Transformations</a></h4>
+              <p>The exponential growth in data is here to stay. Big data is not just a buzzword anymore, but a new reality of the business framework</p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <i class="icofont-image"></i>
+              <h4><a href="MS-solutions">Microsoft Solutions</a></h4>
+              <p>Microsoft’s Business Intelligence (BI) solution has evolved over the last decade to its position as a leading platform, as businesses continue to wrestle with increased data and the need to manage it better</p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <i class="icofont-settings"></i>
+              <h4><a href="IBM-solution">IBM Solutions</a></h4>
+              <p>IBM Centers of Excellence offers a variety of services and solutions for your business needs:</p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
+              <i class="icofont-earth"></i>
+              <h4><a href="/MS-tech">Oracle Solutions</a></h4>
+                <p>  Progeek Software provides a broad range of Microsoft technology services to help our clients drive excellence and business value in applications driven by Microsoft technology.</p>
+            </div>
+
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
+              <i class="icofont-tasks-alt"></i>
+              <h4><a href="/robotics">Technologies Solutions</a></h4>
+              <p>Change is good. It’s your intrepid journey from “We’ve always done it this way” to “Let’s do it differently this time.” Change is moving ahead with time. It is progress</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <!-- End Portfolio Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <!-- End Testimonials Section -->
+
+
+
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq" class="faq">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Frequently Asked Questions</h2>
+        </div>
+
+        <ul class="faq-list" data-aos="fade-up">
+
+          <li>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">What can you help me with? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <div id="faq1" class="collapse" data-parent=".faq-list">
+              <p>
+              With whatever we can. Preparing cost analysis, establishing team roles, creating roadmaps. Defining business goals, key business values, target users, main features, prioritising. We can find you similar projects that are already active on the market to benchmark against. We can assist you with creating user personas, mock-ups, user stories, time frame, establishing project status and preparing project estimation. We'll be happy to outline project specification, prepare wireframes, details concerning integrations with external services, API documentation, required features list.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq2" class="collapsed">How do I create a product with you?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <div id="faq2" class="collapse" data-parent=".faq-list">
+              <p>
+                If you have an idea contact us by our online form, e-mail or phone. We'll meet and talk it over. Just be sure to prepare as much info about your idea as possible, it will smoothen the meeting and benefit further cooperation.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq3" class="collapsed">Should I create a mobile or a web app? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <div id="faq3" class="collapse" data-parent=".faq-list">
+              <p>
+              Both have their benefits and flaws. Mobile apps are surely more expensive but can provide you with many more data collecting, monetisation capabilities than web applications. Progressive Web Apps are a good compromise between a mobile and web app — you can  learn more about PWA on our blog. But remember that sooner or later you may need both mobile and web app and when that moment comes we are here for you :)
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq4" class="collapsed">What do I need to know before contacting you?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <div id="faq4" class="collapse" data-parent=".faq-list">
+              <p>
+Well, the most important thing to know is what do you want to accomplish. Why do I need this software? What for? What should it do? Having a clear vision in mind is crucial when ordering a software application. You don't want to spend many months developing it with us without being sure what you need.              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq5" class="collapsed">How do you guarantee product quality? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <div id="faq5" class="collapse" data-parent=".faq-list">
+              <p>
+We evaluate the result after every two weeks, we test our work (we conduct both development and acceptance tests), we present it to you, we apply your feedback so you know you get what you are paying for.              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq6" class="collapsed"> How can I be sure you work at my project as much as you declare? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <div id="faq6" class="collapse" data-parent=".faq-list">
+              <p>
+We thoroughly monitor our developers and control how much time they spend on each task down to the exact minute. We use Harvest software and Redmine to track time spent on your project.              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section><!-- End Frequently Asked Questions Section -->
+    <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Team</h2>
+          <p>We may be strong as individuals but together we are invincible.</p>
+        </div>
+
+        <div class="row">
+
+
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="{%static "images/ceo.png"%}" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="http://twitter.com/awanishsisodiya"target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="http://fb.com/awanishh"target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                  <a href="http://www.linkedin.com/in/awanish-kumar-0318b01a5" target="_blank"><i class="icofont-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Awanish Kumar</h4>
+                <span>Project Manager & BA</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Team Section ======= -->
+    <!-- End Team Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>We are happy to be in touch with you.</p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-12">
+   <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3887.612850758166!2d77.61600461467796!3d12.996595990839431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sOld%20No.%20107%2F1%2C%20New%20No.31%2F1%20Wheeler%20Road%20Cox%20Town%20Bangalore%2C%20560005!5e0!3m2!1sen!2sin!4v1620804097302!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="info-box">
+                  <i class="bx bx-map"></i>
+                  <h3>Our Address</h3>
+                  <p>
+                <strong>  Head Branch Address : </strong><br>
+                  Old No. 107/1, New No.31/1 <br>Wheeler Road
+
+      Cox Town Bangalore, 560005<br>
+                 <strong>Email:</strong> info@Progeeksoftware.com<br><br><br>
+                 <strong>Other Branch Address</strong><br>
+                 GANGOTHRI BUILDING,
+NO 10 BESIDE UNITED HOSPITAL<br>
+NEXT TO NETRAJYOTI EYE HOSPITAL
+DIST COURT ROAD, TIMMAPURI CIRCLE<br>
+KALABURAGI.585102
+KARNATAKA, INDIA<br>
+               </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>info@Progeeksoftware.com</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-phone-call"></i>
+                  <h3>Call Us</h3>
+                  <p>
+                  CELL: 7090444480, 9731046834</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <a href="/" class="logotwo"><img class="lg"src="{{i.logo.url}}" alt=""></a><span></span>
+            <p>
+              <strong>  Head Branch Address : </strong><br>
+                Old No. 107/1, New No.31/1 <br>Wheeler Road
+
+    Cox Town Bangalore, 560005<br>
+              <strong>Phone:</strong> <br>
+              <strong>Email:</strong> info@Progeeksoftware.com<br>
+            </p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="/it-outsourcing">IT Outsourcing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/automation">Digital Transformation</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/MS-solutions">Microsoft Solutions</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/IBM-solution">IBM Solutions</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/MS-tech">Oracle Solutions</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/robotics">Technologies Solutions</a></li>
+            </ul>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Progeek Software</span></strong>. All Rights Reserved
+        </div>
+
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="{%static "assets/vendor/jquery/jquery.min.js"%}"></script>
+  <script src="{%static "assets/vendor/bootstrap/js/bootstrap.bundle.min.js"%}"></script>
+  <script src="{%static "assets/vendor/jquery.easing/jquery.easing.min.js"%}"></script>
+  <script src="{%static "assets/vendor/php-email-form/validate.js"%}"></script>
+  <script src="{%static "assets/vendor/owl.carousel/owl.carousel.min.js"%}"></script>
+  <script src="{%static "assets/vendor/waypoints/jquery.waypoints.min.js"%}"></script>
+  <script src="{%static "assets/vendor/counterup/counterup.min.js"%}"></script>
+  <script src="{%static "assets/vendor/isotope-layout/isotope.pkgd.min.js"%}"></script>
+  <script src="{%static "assets/vendor/venobox/venobox.min.js"%}"></script>
+  <script src="{%static "assets/vendor/aos/aos.js"%}"></script>
+
+  <!-- Template Main JS File -->
+  <script src="{%static "assets/js/main.js"%}"></script>
+{%endfor%}
+</body>
+
+</html>

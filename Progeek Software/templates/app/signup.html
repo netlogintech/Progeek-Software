@@ -1,0 +1,163 @@
+{%load static%}
+{% load widget_tweaks %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Signup | Progeek Software</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="{%static "icons\IMG_20210518_203507-removebg-preview.png"%}" rel="icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="{% static "assets/vendor/bootstrap/css/bootstrap.min.css"%}" rel="stylesheet">
+    <link href="{% static "assets/vendor/icofont/icofont.min.css"%}" rel="stylesheet">
+    <link href="{%static "assets/vendor/boxicons/css/boxicons.min.css"%}" rel="stylesheet">
+    <link href="{%static "assets/vendor/owl.carousel/assets/owl.carousel.min.css"%}" rel="stylesheet">
+    <link href="{%static "assets/vendor/remixicon/remixicon.css"%}" rel="stylesheet">
+    <link href="{%static "assets/vendor/venobox/venobox.css"%}" rel="stylesheet">
+    <link href="{%static "assets/vendor/aos/aos.css"%}" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="{%static "assets/css/style.css"%}" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style >
+
+
+      html { width: 100%; height:100%; }
+
+      body {
+        width: 100%;
+        height:100%;
+        font-family: 'Open Sans', sans-serif;
+        background: linear-gradient(to right,#db322c,#f0cbc9)
+
+
+      }
+      .login {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin: -150px 0 0 -150px;
+        width:300px;
+        height:300px;
+      }
+      .login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+
+      input {
+        width: 100%;
+        margin-bottom: 10px;
+        background: rgba(0,0,0,0.3);
+        border: none;
+        outline: none;
+        padding: 10px;
+        font-size: 13px;
+        color: #fff;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+        border: 1px solid rgba(0,0,0,0.3);
+        border-radius: 4px;
+        box-shadow: inset 0 -5px 45px rgba(100,100,100,0.2), 0 1px 1px rgba(255,255,255,0.2);
+        -webkit-transition: box-shadow .5s ease;
+        -moz-transition: box-shadow .5s ease;
+        -o-transition: box-shadow .5s ease;
+        -ms-transition: box-shadow .5s ease;
+        transition: box-shadow .5s ease;
+      }
+      input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgba(255,255,255,0.2); }
+
+    </style>
+  </head>
+  <body>
+    <header id="header" class="fixed-top">
+      <div class="container-fluid">
+        <div class="row justify-content-center">
+          <div class="col-xl-10 d-flex align-items-center">
+
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <a href="/" class="logo mr-auto"><img class="lg"src="{%static "logo\IMG-20210519-WA0010-removebg-preview.png"%}" alt=""></a>
+
+            <nav class="nav-menu d-none d-lg-block">
+              <ul>
+                <li><a href="/">Home</a></li>
+
+                <li class="drop-down"><a href=""> Digital Transformation</a>
+                  <ul>
+                    <li><a href="/big-data">Big Data</a></li>
+                    <li><a href="/data-sciences">Data Sciences & Analytics</a></li>
+                    <li><a href="/social">Social Media Services</a></li>
+                    <li><a href="/automation">Automation Anywhere</a></li>
+                    <li><a href="/cloud"> Cloud Services</a></li>
+                    <li><a href="/mobility">Mobility Services</a></li>
+                    <li><a href="/robotics">Robotic Process Automation</a></li>
+                  </ul>
+                </li>
+
+
+                <li class="drop-down"><a href="/it-outsourcing">IT Outsourcing</a>
+                  <ul>
+                    <li><a href="/it-outsourcing">Applications Services</a></li>
+
+                    <li><a href="/ims">Infrastructure Management Services</a></li>
+                    <li><a href="/testing">Testing Services</a></li>
+                    <li><a href="/managed">Managed Services</a></li>
+                      <li><a href="/enterprise">Enterprise Modernization</a></li>
+                        <li><a href="/captive">Captive Insourcing</a></li>
+                          <li><a href="/strategic">Strategic Consulting </a></li>
+                            <li><a href="/outsourced">Outsourced Product Development </a></li>
+                              <li><a href="/system">System Integration </a></li>
+                              <li><a href="/enterprise-solution">Enterprise Solutions </a></li>
+                  </ul>
+                </li>
+                <li class="drop-down"><a href="">Technology</a>
+                  <ul>
+                    <li><a href="/IBM-solution">IBM</a></li>
+                    <li><a href="/MS-solutions">Microsoft Solution</a></li>
+                  </ul>
+                </li>
+                <li class="drop-down"><a href="">Training</a>
+                  <ul>
+                    <li><a href="/live">Student</a></li>
+                    <li><a href="/trainer">Trainer</a></li>
+                    <li><a href="/user">Careers</a></li>
+                    <li><a href="https://www.thinqtechnoacademy.com/">Resources</a></li>
+
+
+                  </ul>
+                </li>
+                <li><a href="/#about">About</a></li>
+                {%if user.is_authenticated%}
+                <li><a href="/logout">Logout</a></li>
+                {%endif%}
+
+
+
+    <li><a href="/search"><i class="fa fa-search"></i></a></li>
+
+              </ul>
+            </nav><!-- .nav-menu -->
+
+            <a href="/#contact" class="get-started-btn scrollto">Contact</a>
+
+          </div>
+        </div>
+
+      </div>
+    </header><!-- End Header -->
+    <div class="login"style="">
+      <h1>Signup</h1>
+        <form method="post" >
+          {% csrf_token %}
+          {{form.as_p}}
+
+            <button type="submit" class="btn btn-primary btn-block btn-large">Sign Up</button>
+        </form>
+    </div>
+  </body>
+</html>
+Progeek Software

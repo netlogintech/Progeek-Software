@@ -1,0 +1,443 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>
+	Chit Fund Scheme, Chit Fund Act, Chit Funds Act
+</title><meta name="keywords" content="Chit Plans, easy chit plans, Kapil chit plans"><link rel="stylesheet" href="bootstrap/css/bootstrap.min.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway"><link rel="stylesheet" href="css/user.css"><link rel="stylesheet" href="css/custom.css"><link rel="stylesheet" href="css/Header-Blue.css"><link rel="stylesheet" href="css/Highlight-Phone.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css"><link rel="stylesheet" href="css/Lightbox-Gallery.css"><link rel="stylesheet" href="css/Login-Form-Clean.css"><link rel="stylesheet" href="css/MUSA_no-more-tables.css"><link rel="stylesheet" href="css/MUSA_no-more-tables1.css"><link rel="stylesheet" href="css/Newsletter-Subscription-Form.css"><link rel="stylesheet" href="css/Registration-Form-with-Photo.css"><link rel="stylesheet" href="css/Team-Boxed.css"><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"><link rel="icon" href="favicon.ico" type="image/x-icon"><link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+
+    <style type="text/css">
+        .gridTextColor {
+            font-size: 14px;
+        }
+
+        body, td, th {
+            font-size: 14px;
+        }
+
+        .input_text {
+            border: 1px solid #c0c0c0;
+            padding: 4px;
+            font-size: 14px;
+            color: Black;
+        }
+            /* This is the CSS class to use when the control has focus */ .input_text:focus, input.input_text_focus {
+                border-color: #393C89;
+                color: Black;
+            }
+
+        .password {
+            font-size: 80%;
+        }
+    </style>
+    <style>
+        .ac-wrapper {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,.2);
+            z-index: 99999;
+        }
+
+        #popup {
+            width: 600px;
+            height: 375px;
+            background: url(images/bg.png) no-repeat;
+            padding: 20px 0px;
+            border-radius: 25px;
+            -moz-border-radius: 25px;
+            -webkit-border-radius: 25px;
+            position: relative;
+            top: 150px;
+            left: 20%;
+        }
+
+            #popup h3 {
+                font-size: 26px;
+                color: #fff;
+                text-shadow: 2px 2px 5px #333;
+            }
+
+            #popup h2 {
+                font-size: 36px;
+                color: #fff;
+                text-shadow: 2px 2px 5px #333;
+            }
+
+        .navbar-brand {
+            height: 40px;
+        }
+    </style>
+
+
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery('#mycarousel').jcarousel();
+        });
+
+    </script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-7766008-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        function PopUp() {
+            // document.getElementById('ctl00_content1_divaccwrapper').style.display = "none";
+        }
+    </script>
+    <script type="text/javascript">
+        var dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday",
+            "Thursday", "Friday", "Saturday")
+
+        var montharray = new Array("January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December")
+
+        //        function getthedate() {
+        //            var mydate = new Date()
+        //            var year = mydate.getYear()
+        //            if (year < 1000)
+        //                year += 1900
+        //            var day = mydate.getDay()
+        //            var month = mydate.getMonth() + 1
+        //            var daym = mydate.getDate()
+        //            if (daym < 10)
+        //                daym = "0" + daym
+        //            var hours = mydate.getHours()
+        //            var minutes = mydate.getMinutes()
+        //            var seconds = mydate.getSeconds()
+        //            var dn = ""
+        //            if (hours >= 12)
+        //                dn = "PM"
+        //            else
+        //                dn = "AM"
+        //            if (hours > 12) {
+        //                hours = hours - 12
+        //            }
+        //            if (hours == 0)
+        //                hours = 12
+        //            if (minutes <= 9)
+        //                minutes = "0" + minutes
+        //            if (seconds <= 9)
+        //                seconds = "0" + seconds
+        //            //Hire change font size
+        //            //            var cdate = "< small> < font color='ffffff' face='Arial'>"
+        //            //  + dayarray[day]
+        //            //  + ", " + daym + " " + montharray[month] + ", " + year
+        //            //  + " " + hours + ":" + minutes + ":" + seconds + " " + dn
+        //            //  + "  < /small>"
+
+        //            var cdate = month + "/" + daym + "/" + year + " " + hours + ":" + minutes + ":" + seconds + " " + dn
+        //            if (document.all)
+        //                document.all.clock.innerHTML = cdate
+        //            else if (document.getElementById)
+        //                //document.getElementById("lbldate").innerHTML = cdate
+        //            else
+        //                document.write(cdate)
+        //        }
+        // if (!document.all && !document.getElementById)
+        //getthedate()
+
+    </script>
+    <script>
+        function goforit() {
+            //            if (document.all || document.getElementById)
+            //                setInterval("getthedate()", 1000)
+        }
+    </script>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    <script src="js/jquery.countdownTimer.js"></script>
+    <script src="js/moment.js"></script>
+
+
+</head>
+
+<body>
+    <form name="aspnetForm" method="post" action="./HowdoesChitWorks.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYCAgMPZBYEAgEPZBYCAgEPDxYCHgRUZXh0BQVHdWVzdGRkAgUPDxYCHwAFEzMwLTAzLTIwMjEgMTY6MjM6MzFkZGSIgghjnZ7xqMB9W6u0WmfXGMJeGQAiTYejlaOmXDfSvQ==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ZdHumYs4gXpKIYNVfoQbD3y9KnjMHfiBvbdzAwT_DkYx9QBRbji5TzOaN-hn6-BMsFIyscY3wYzmbEBH-zqCdw6dKS3em9O3wf8kLz_Nqk41&amp;t=636284280552661246" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=QpSB6DinTwZRD_ntPP5TPaieGZcgkcQj3_OSDlei_U5U3gwHgDQ8f4uuY1MRvOOtm65MXcP6EACNTx9N59Nr_M9mVbWTCcTssCbpFZ964JjjXmIByr895sucxMlMYDyfXeGZBHGebWo-Nw60PDWGHsSkCZfAquur_rBs-RS7x4ZdBCAksDxdoQg9MYBlKh8y0&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=LeX8H5LtmXwWlkgN1a49GptMI48tOyNEm2cEMknt9YFhzmpCu-wqOD7j6ol5PHr0WDqFIDg7KvuGmx2bsQg5Gfn_l0jRfYeAE6w4QruJ8bJnRlrnq49yY3pUy2vtHitZpQ8UCEFlIvFkUzXJ-WJU90DVQZhhn1iyo1_C_40BxcufUMPJv-s0dI-mVpy-Z22m0&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E9E9A444">
+</div>
+
+
+        <div class="padding-sm bg-info">
+
+            <div class="container">
+
+
+                <div id="ctl00_pnlWithoutSession">
+
+                    <ul class="nav nav-pills navbar-right">
+                        <li role="presentation"><a href="https://play.google.com/store/apps/details?id=kapil.chits&amp;hl=en" target="_blank">Download App </a></li>
+
+                        <li role="presentation"><a href="SignIn.aspx">Online Auction </a></li>
+                        <li role="presentation"><a href="SignIn.aspx">Subscription Pay Online </a></li>
+                    </ul>
+
+
+</div>
+
+
+
+            </div>
+        </div>
+
+
+
+        <nav class="navbar navbar-default main-nav">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand navbar-link" href="http://kapilchits.com/">
+                        <img src="img/logo.png"></a>
+
+                    <a class="navbar-toggle " data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a>
+                </div>
+
+                <div class="collapse bg-white navbar-collapse" id="navcol-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="Default.aspx">Home </a></li>
+                        <li class="active"><a href="HowdoesChitWorks.aspx">how does a chit work</a></li>
+                        <li class="active"><a href="WhyKapilchits.aspx">why kapil chits</a></li>
+                        <li class="active"><a href="Faq.aspx">faq </a></li>
+                        <li class="active"><a href="ChitPlans.aspx">chit plans</a></li>
+                        <li class="active"><a href="Join.aspx">interested to join</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+      <section class="banner howchitworks-banner">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="text-center">At all times have a helping hand </h1></div>
+            </div>
+        </div>
+    </section>
+
+
+
+        <section>
+
+
+
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+    <section class="features2">
+        <div class="container">
+            <div class="row">
+                <div class="row">
+                    <div class="col-lg-12 col-sm-offset-1 col-xs-offset-1 col-lg-offset-0 col-md-offset-0 margin-bottom-lg">
+                        <h1 class="mrgnB70">How Chits Work</h1>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-10 col-xs-10 col-xs-offset-1 col-sm-offset-1 col-lg-offset-0 col-md-offset-0 ">
+
+                    <div class="row mrgnB50">
+                        <div class="howchits-col1">
+                            <img src="img/chitvalue-icon.png"></div>
+                        <div class="howchits-col2">
+                            <h4>Chit value </h4>
+                            <p class="text-left">There is a new chit group that is commencing. The value of the chit is 500,000. This amount is known as the Chit Value.</p>
+                        </div>
+                    </div>
+                    <div class="row mrgnB50">
+                        <div class="howchits-col1">
+                            <img src="img/timeperiod-icon.png"></div>
+                        <div class="howchits-col2">
+                            <h4>Chit period </h4>
+                            <p class="text-left">For the purpose of this illustration, we will consider the duration of the chit to be 50 months. This is known as term period for the chit group.</p>
+                        </div>
+                    </div>
+                    <div class="row mrgnB50">
+                        <div class="howchits-col1">
+                            <img src="img/subscribers-icon.png"></div>
+                        <div class="howchits-col2">
+                            <h4>Subscribers</h4>
+                            <p class="text-left margin-bottom-lg">The Foreman or Chit Fund Company has to gather 50 people who are interested in investing in this chit group. These 50 persons are called Subscribers.</p>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-8 col-sm-offset-2 col-xs-offset-2 col-lg-offset-0 col-md-offset-0">
+                    <img src="img/rupee-works.png" class="img-responsive"></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="howchitworks blue">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-lg-4 col-xs-7 col-md-4 col-sm-3 col-xs-offset-2 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 ">
+                    <img src="img/foreman.png" class="img-responsive"></div>
+                <div class="col-lg-7 col-lg-offset-1 col-xs-12 col-sm-7 col-sm-offset-1 ">
+                    <h1>Foreman responsibility (Kapil Chits)</h1>
+                    <h4>Once the chit group commences</h4>
+                    <ul>
+                        <li>The foreman has to register the chit with the registrar of chits.</li>
+                        <li>The foreman has to pay 100% of the chit value as security.</li>
+                        <li>This amount can be withdrawn only after the said chit group closes and every subscriber is paid what is due to him or her.</li>
+                        <li>This regulation protects the interests of the subscriber to a certain extent.</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+    <section class="howchitworks">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 padR60">
+                    <h1>Monthly subscriptions</h1>
+                    <h4>Once the chit group commences</h4>
+                    <ul>
+                        <li>The amount to be saved every month by the Subscriber is Chit value/No of person’s i.e. 500,000/50 = 10,000.</li>
+                        <li>This is also known as Monthly Subscription. It may be noted here that the number of persons investing in a chit and the duration of the chit is always the same.</li>
+                        <li>The maximum monthly contribution or Subscription Amount that a Subscriber will pay is 10,000.</li>
+                        <li>The Subscriber does not always pay the entire Subscription amount every month</li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-xs-7 col-xs-offset-2 col-sm-offset-0 col-md-offset-0 col-lg-offset-0 col-md-4 col-sm-3 margin-top-xs">
+                    <img src="img/monthly-subscriptions.png" alt="" class="img-responsive"></div>
+
+
+
+
+
+            </div>
+        </div>
+
+    </section>
+    <section class="howchitworks blue">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-lg-5 col-sm-3 col-xs-9 col-xs-offset-1 col-sm-offset-0 col-md-offset-0 col-lg-offset-0">
+                    <img src="img/chit-discount.png" class="img-responsive"></div>
+                <div class="col-lg-7 col-sm-7 col-xs-10 col-xs-offset-1 col-sm-offset-1 col-md-offset-0 col-lg-offset-0">
+                    <h1>Chit Discounts</h1>
+                    <p>The Subscriber does not always pay the entire Subscription amount every month. Let us find out how and why he does not have to pay the entire amount.</p>
+
+                    <p>The maximum discount or maximum bid permitted ranges from 30-40%. For the purpose of this illustration we will assume that a Subscriber has bid 35% of the chit value. 35% of 500,000 is 175,000. This amount is known as Chit Discount.</p>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <section class="howchitworks">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-7 col-xs-10 col-xs-offset-1 col-md-8 col-sm-7 col-sm-offset-0 col-md-offset-0 col-lg-offset-0">
+                    <h1>Chit Discount example</h1>
+                    <p>The foreman charges 5% of chit value as commission. In this illustration, that would amount to 25,000. This is deducted from Chit Discount i.e. 175,000-25000=150,000. This amount is available for equal distribution among the subscribers.</p>
+
+                    <p>In our example, 150,000 would be divided equally among 50 subscribers. Each subscriber would get a discount of 150,000/50 = 3000. This amount is known as Dividend.</p>
+
+                    <p>In the following month, all subscribers would have to only pay 7,000 instead of 10,000. This is because they have earned a chit discount of 3000.</p>
+                </div>
+                <div class="col-lg-5 col-xs-8 col-xs-offset-2 padding-top-xs col-md-4 col-sm-3 col-sm-offset-1 col-md-offset-0 col-lg-offset-0">
+                    <img src="img/chit-discount-example.png" alt="" class="img-responsive"></div>
+            </div>
+        </div>
+
+    </section>
+    <section class="howchitworks blue">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-5 col-xs-8 col-xs-offset-2 col-md-4 col-sm-3 col-sm-offset-0 col-md-offset-0 col-lg-offset-0">
+                    <img src="img/conclusion.png" class="img-responsive"></div>
+
+                <div class="col-lg-7 col-xs-10 col-md-8 col-sm-7 col-xs-offset-1 col-sm-offset-1 col-md-offset-0 col-lg-offset-0">
+                    <h1>Conclusion</h1>
+                    <p>The Subscriber does not always pay the entire Subscription amount every month. Let us find out how and why he does not have to pay the entire amount.</p>
+
+                    <p>The maximum discount or maximum bid permitted ranges from 30-40%. For the purpose of this illustration we will assume that a Subscriber has bid 35% of the chit value. 35% of 500,000 is 175,000. This amount is known as Chit Discount.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+        </section>
+
+        <div class="clearfix"></div>
+
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                        <h5>Kapil Chits ©</h5>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                        <div class="footer"><a href="Legal.aspx">Terms and Conditions</a></div>
+                        <div class="footer"><a href="Privacy.aspx">Privacy Policy</a></div>
+                        <div class="footer"><a href="Media.aspx">Media</a></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
+    </form><div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div>
+
+
+
+</body></html>
